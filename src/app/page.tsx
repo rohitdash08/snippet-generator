@@ -140,7 +140,12 @@ export default function HomePage() {
     <main className="min-h-screen bg-gradient-to-b from-black via-gray-900 to-gray-700 text-gray-200 ">
       <header className="flex justify-between items-center p-6 bg-black/20 backdrop-blur-lg shadow-lg">
         <h1 className="text-3xl font-bold flex items-center">
-          <Code className="mr-2" /> Snippet Sorcerer
+          <span className="relative inline-block text-gray-100 font-semibold">
+            <span className="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-600 blur-lg transform -skew-y-3 transition duration-500 ease-in-out" />
+            <span className="relative z-10 flex items-center">
+              <Code className="mr-2" /> Snippet Sorcerer
+            </span>
+          </span>
         </h1>
         <Button
           className="bg-gray-600 hover:bg-gray-700 text-white transition-colors duration-300"
@@ -153,11 +158,12 @@ export default function HomePage() {
       <div className="flex flex-col items-center justify-center py-12 px-4">
         <Card className="p-8 bg-white/10 backdrop-blur-lg text-gray-300 rounded-lg max-w-2xl w-full mb-8 shadow-2xl">
           <h2 className="text-4xl font-bold mb-4">
-            AI-Powered Code Snippet Generator
+            CopilotKit-Powered Code Snippet Generator
           </h2>
           <p className="mb-6 text-lg">
             Harness the power of AI to generate code snippets tailored to your
-            needs. Select a language and start coding!
+            needs. Use the CopilotKit to generate code snippets in various
+            programming languages.
           </p>
           <Button
             className="bg-gray-600 hover:bg-gray-700 text-white px-6 py-3 rounded-md transition-colors duration-300"
