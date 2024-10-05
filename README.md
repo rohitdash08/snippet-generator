@@ -48,4 +48,5 @@ Snippet Sorcerer is an AI-powered code snippet generator that leverages the capa
 
 ### Demo
 
-![image](https://github.com/user-attachments/assets/5813b78d-4545-46a9-9144-772bdcac7be9)
+![image](https://github.com/user-attachments/assets/f9c44bc4-68d5-449a-aa77-99df9db82207)
+
