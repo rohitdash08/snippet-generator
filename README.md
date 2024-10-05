@@ -19,8 +19,9 @@ Snippet Sorcerer is an AI-powered code snippet generator that leverages the capa
 
 ### Prerequisites
 
-- Node.js (version X.X.X)
-- Yarn (version X.X.X) or npm
+- Node.js
+- Yarn or npm
+- **USE YOUR OWN API KEY 😛"
 
 ### Installation
 
@@ -49,4 +50,6 @@ Snippet Sorcerer is an AI-powered code snippet generator that leverages the capa
 ### Demo
 
 ![image](https://github.com/user-attachments/assets/f9c44bc4-68d5-449a-aa77-99df9db82207)
+![image](https://github.com/user-attachments/assets/cca06df5-de92-4470-94cc-7f034bf45125)
+
 
