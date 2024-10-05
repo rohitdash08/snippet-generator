@@ -44,5 +44,8 @@ Snippet Sorcerer is an AI-powered code snippet generator that leverages the capa
 1. Select a programming language from the dropdown menu.
 2. Enter your prompt in the text area.
 3. Click the "Generate Snippet" button to generate the code snippet.
-<!-- 4. Review the generated code and make any necessary adjustments. -->
 4. Enjoy your code generation journey!
+
+### Demo
+
+![image](https://github.com/user-attachments/assets/5813b78d-4545-46a9-9144-772bdcac7be9)
